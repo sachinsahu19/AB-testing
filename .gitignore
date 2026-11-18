@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Database (optional build artifact)
+SQL/ab_testing.db
+
+# macOS
+.DS_Store
